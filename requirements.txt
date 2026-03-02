@@ -1,0 +1,17 @@
+langgraph==0.2.50
+langchain-anthropic==0.3.4
+anthropic==0.46.0
+chromadb==0.6.3
+langchain-chroma==0.2.2
+sentence-transformers==3.4.1
+langchain-huggingface==0.1.2
+langchain-community==0.3.15
+pypdf==5.3.1
+yfinance==0.2.54
+pandas==2.2.3
+python-dotenv==1.0.1
+pydantic==2.10.6
+rich==13.9.4
+pytest==8.3.4
+pytest-asyncio==0.25.3
+duckduckgo-search==6.3.7
