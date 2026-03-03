@@ -166,15 +166,15 @@ duckduckgo-search==6.3.7
 ## Todos
 
 - [x] Create project scaffolding (requirements.txt, .env.example, .gitignore, pyproject.toml, directories) ✓
-- [ ] Create `state.py` — ResearchState TypedDict schema
-- [ ] Create `config.py` — centralized settings
-- [ ] Create `vectorstore/` — embeddings, store, ingest pipeline
-- [ ] Create `tools/` — rag_tool, finance_tool, web_search_tool
-- [ ] Create `nodes/` — planner, tool_executor, critic, re_search_plan, synthesizer, formatter
-- [ ] Create `graph.py` — LangGraph StateGraph assembly
-- [ ] Create `agent.py` — public AgentRunner class
-- [ ] Create `scripts/` — ingest_documents.py and run_agent.py CLI scripts
-- [ ] Create `tests/` — conftest, test_tools, test_nodes, test_graph
+- [x] Create `state.py` — ResearchState TypedDict schema ✓
+- [x] Create `config.py` — centralized settings ✓
+- [x] Create `vectorstore/` — embeddings, store, ingest pipeline ✓
+- [x] Create `tools/` — rag_tool, finance_tool, web_search_tool ✓
+- [x] Create `nodes/` — planner, tool_executor, critic, re_search_plan, synthesizer, formatter ✓
+- [x] Create `graph.py` — LangGraph StateGraph assembly
+- [x] Create `agent.py` — public AgentRunner class
+- [x] Create `scripts/` — ingest_documents.py and run_agent.py CLI scripts ✓
+- [x] Create `tests/` — conftest, test_tools, test_nodes, test_graph ✓
 
 ---
 
